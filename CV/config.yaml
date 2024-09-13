@@ -1,0 +1,10 @@
+username: zaitsevegor
+devices: [0, 1, 2, 3, 4, 5, 6, 7]
+train_data_path: data/train
+eval_data_path: data/val
+test_data_path: data/test
+model_weights_path: 16_0.936.ckpt
+model_name: maxvit_t
+class_size: 6
+eval_class_size: 2
+
